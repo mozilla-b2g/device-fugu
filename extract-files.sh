@@ -251,8 +251,6 @@ COMMON_LIBS="
 	libaudioutils.so
 	libeng_wifi_ptest.so
 	libengclient.so
-	libjniNtvDev.so
-	libmbbms_tel_jni.so
 	libmorpho_facesolid.so
 	libstagefrighthw.so
 	libvbeffect.so
